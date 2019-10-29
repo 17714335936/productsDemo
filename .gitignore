@@ -1,3 +1,4 @@
+<<<<<<< Upstream, based on da1337ad5afff5ef504e0ad76292efdeed1cd825
 
 sap-ui-cachebuster-info.json
 extended_runnable_file.html
@@ -8,3 +9,15 @@ fioriHtmlRunner.html
 .*/fioriHtmlRunner.html
 visual_ext_index.html
 /webapp/visual_ext_index.html
+=======
+sap-ui-cachebuster-info.json
+extended_runnable_file.html
+.*/extended_runnable_file.html
+mock_preview_sapui5.html
+.*/mock_preview_sapui5.html
+fioriHtmlRunner.html
+.*/fioriHtmlRunner.html
+visual_ext_index.html
+/webapp/visual_ext_index.html
+/.user.project.json
+>>>>>>> f4d8254 Ignore and Untrack System Files
